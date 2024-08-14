@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hello! 👋 I'm Baisanhur
 
-<!--
-**BaisanhurSaparau/BaisanhurSaparau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior web developer with two years of freelance experience, specializing in front-end development. I create interactive and responsive web applications, using modern technologies and striving for clean, optimized code.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 2 years of freelance experience in web development, mainly focused on front-end.
+- 🌐 Skills: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Git.
+- 🔧 Constantly learning new tools and technologies to improve my skills.
+- 🚀 Passionate about building beautiful and functional user interfaces.
+- 💡 Open to collaboration and excited about new and interesting projects.
+
+## My Skills
+
+- HTML5 & CSS3: Responsive layout and cross-browser design.
+- JavaScript (ES6+): Creating interactive elements and working with APIs.
+- React.js: Developing SPAs (Single Page Applications) with a component-based approach.
+- Bootstrap & SASS: Rapid prototyping and enhanced styling.
+- Git: Version control and collaborative project work.
+
+## What Have I Done?
+
+- Developed landing pages and multi-page websites from scratch.
+- Created custom themes and components for CMS (e.g., WordPress).
+- Integrated APIs and built dynamic user interfaces.
+- Optimized websites for performance and improved user experience.
+
+## My Projects
+
+- [Project Name 1](link to repository): Brief description of the project (e.g., "Landing page for a company with a responsive design").
+- [Project Name 2](link to repository): Brief description of the project (e.g., "Task-tracking SPA application").
+- [Project Name 3](link to repository): Brief description of the project (e.g., "E-commerce site with search and filtering features").
+
+## My Future Goals
+
+- 🌱 Continue developing as a front-end developer.
+- 📚 Learn TypeScript and deepen my knowledge of React.js.
+- 💼 Start working on large-scale, high-load projects.
+- 🛠 Explore back-end development for full-stack capabilities.
+
+## Contact Me
+
+- 📧 Email: [saparovbais7@gmail.com](mailto:saparovbais7@gmail.com)
+- 🌐 LinkedIn: [Baisanhur Saparau](https://www.linkedin.com/in/baisanhur-saparau/)
+- 📨 Telegram: [Bais Saparov](https://t.me/sapbais)
