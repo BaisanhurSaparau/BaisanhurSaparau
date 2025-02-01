@@ -14,4 +14,4 @@ I'm a junior web developer with two years of freelance experience, specializing 
 
 - 📧 Email: [saparovbais7@gmail.com](mailto:saparovbais7@gmail.com)
 - 🌐 LinkedIn: [Baisanhur Saparau](https://www.linkedin.com/in/baisanhur-saparau/)
-- 📨 Telegram: [Bais Saparov](https://t.me/sapbais)
+- 📨 Telegram: [Bais Saparov](https://t.me/Baisanhur)
